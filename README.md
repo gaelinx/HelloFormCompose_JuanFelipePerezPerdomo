@@ -1,4 +1,4 @@
-# Hello From Compose 👋
+# Hello From Compose
 
 Una aplicación Android simple construida con **Jetpack Compose** que demuestra el uso de componentes básicos de Material Design 3, manejo de estado, validación de entrada y feedback visual.
 
